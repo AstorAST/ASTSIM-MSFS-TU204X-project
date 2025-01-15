@@ -1,1 +1,24 @@
-
+{
+  "content": [
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 133732699140000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/model/model.cfg",
+      "size": 586,
+      "date": 133813842643484577
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/TEXTURE/thumbnail.JPG",
+      "size": 167102,
+      "date": 133813829234486227
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/TEXTURE/thumbnail_small.JPG",
+      "size": 167102,
+      "date": 133813829234486227
+    }
+  ]
+}
