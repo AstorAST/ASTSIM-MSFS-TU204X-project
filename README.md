@@ -1,0 +1,2 @@
+The Tupolev Tu-204 (Russian: Туполев Ту-204) is a twin-engined medium-range narrow-body jet airliner capable of carrying 210 passengers, designed by Tupolev and produced by Aviastar-SP and Kazan Aircraft Production Association. First introduced in 1989, it was intended to be broadly equivalent to the Boeing 757, with slightly lower range and payload, and had competitive performance and fuel efficiency in its class.
+This project is the free plane, please don't sell it, if you want made change plaese first connectme
