@@ -1,1 +1,16 @@
-
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "ASTSIM TU204-300",
+  "manufacturer": "Tupolev",
+  "creator": "ASTSIM",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.37.19",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000365015"
+}
