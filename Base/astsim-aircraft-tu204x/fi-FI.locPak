@@ -10,7 +10,7 @@
       "T204.LOADING.TIPS.T204_006": "TU204:ssä on 5 mallia, -100, -120, 214, -300 ja SM.",
       "AIRCRAFT.DESCRIPTION": "Tupolev TU204 oli alun perin Neuvostoliiton odotus lentoteollisuudelle. Neuvostoliiton hajoamisen ja taloudellisten tekijöiden myötä se toimitettiin vain useimmille paikallisille lentoyhtiöille.",
       "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
-      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-300",
       "AIRCRAFT.UI_VARIATION": "Tupolev",
     }
   }
