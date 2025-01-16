@@ -10,7 +10,7 @@
       "T204.LOADING.TIPS.T204_006": "TU204には-100、-120、214、-300、SMの5モデルがあります。",
       "AIRCRAFT.DESCRIPTION": "ツポレフTU204はもともとソ連の航空業界の期待であったが、ソ連の崩壊と経済的要因により、ほとんどの地元航空会社に納入されたのは中国国際航空と高麗航空の2社のみとなった。",
       "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
-      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-300",
       "AIRCRAFT.UI_VARIATION": "Tupolev",
     }
   }
