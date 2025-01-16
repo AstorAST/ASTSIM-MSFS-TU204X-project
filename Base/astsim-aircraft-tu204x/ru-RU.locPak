@@ -10,7 +10,7 @@
       "T204.LOADING.TIPS.T204_006": "Ту204 имеет 5 моделей: -100, -120, 214, -300 и SM.",
       "AIRCRAFT.DESCRIPTION": "Туполев Ту204 изначально был ожиданием Советского Союза для авиационной промышленности. Однако из-за распада Советского Союза и экономических факторов он поставлялся только большинству местных авиакомпаний. Единственными двумя авиакомпаниями были Air China и Air Koryo.",
       "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
-      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-300",
       "AIRCRAFT.UI_VARIATION": "Tupolev",
     }
   }
