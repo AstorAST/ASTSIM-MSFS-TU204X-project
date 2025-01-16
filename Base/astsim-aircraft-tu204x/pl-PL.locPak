@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "pl-PL",
+    "Strings": {
+      "T204.LOADING.TIPS.T204_001": "ASTSIM TU204 jest przystosowany do pracy indywidualnej.",
+      "T204.LOADING.TIPS.T204_002": "Jedyną istniejącą linią lotniczą obsługującą samoloty TU204 jest Air Koryo.",
+      "T204.LOADING.TIPS.T204_003": "TU204 został opracowany przez Związek Radziecki w 1981 roku.",
+      "T204.LOADING.TIPS.T204_004": "Obecnie w magazynie dostępnych jest tylko 30 sztuk TU204! To około 70 jednostek mniej niż DC3!",
+      "T204.LOADING.TIPS.T204_005": "TU204 odbył swój pierwszy lot 2 stycznia 1989 roku w Żukowskim.",
+      "T204.LOADING.TIPS.T204_006": "TU204 ma 5 modeli, -100, -120, 214, -300 i SM.",
+      "AIRCRAFT.DESCRIPTION": "Tupolew TU204 był pierwotnie oczekiwaniem Związku Radzieckiego dla przemysłu lotniczego, jednak wraz z rozpadem Związku Radzieckiego i czynnikami ekonomicznymi był dostarczany tylko do większości lokalnych linii lotniczych. Jedynymi dwoma liniami lotniczymi były Air China i Air Koryo.",
+      "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_VARIATION": "Tupolev",
+    }
+  }
+}

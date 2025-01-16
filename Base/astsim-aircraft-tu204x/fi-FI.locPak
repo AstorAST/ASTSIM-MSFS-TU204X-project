@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "fi-FI",
+    "Strings": {
+      "T204.LOADING.TIPS.T204_001": "ASTSIM TU204 valmistetaan yksilötyötä varten.",
+      "T204.LOADING.TIPS.T204_002": "Ainoa olemassa oleva lentoyhtiö, joka käyttää TU204-konetta, on Air Koryo.",
+      "T204.LOADING.TIPS.T204_003": "Neuvostoliitto kehitti TU204:n vuonna 1981.",
+      "T204.LOADING.TIPS.T204_004": "Varastossa on nyt vain 30 TU204-yksikköä! Se on noin 70 yksikköä vähemmän kuin DC3!",
+      "T204.LOADING.TIPS.T204_005": "TU204 teki ensimmäisen lentonsa 2. tammikuuta 1989 Žukovskissa.",
+      "T204.LOADING.TIPS.T204_006": "TU204:ssä on 5 mallia, -100, -120, 214, -300 ja SM.",
+      "AIRCRAFT.DESCRIPTION": "Tupolev TU204 oli alun perin Neuvostoliiton odotus lentoteollisuudelle. Neuvostoliiton hajoamisen ja taloudellisten tekijöiden myötä se toimitettiin vain useimmille paikallisille lentoyhtiöille.",
+      "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_VARIATION": "Tupolev",
+    }
+  }
+}

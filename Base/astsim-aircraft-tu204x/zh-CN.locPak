@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "zh-CN",
+    "Strings": {
+      "T204.LOADING.TIPS.T204_001": "ASTSIM TU204为个人工作完成。",
+      "T204.LOADING.TIPS.T204_002": "TU204客机现存唯一运营航司为高丽航空。",
+      "T204.LOADING.TIPS.T204_003": "TU204是苏联在1981年开始研制的。",
+      "T204.LOADING.TIPS.T204_004": "TU204现在只存30台！这比DC3要少大约70台！",
+      "T204.LOADING.TIPS.T204_005": "TU204在1989年1月2日在茹科夫斯基首飞。",
+      "T204.LOADING.TIPS.T204_006": "TU204拥有5款机型，-100，-120，214，-300以及SM。",
+      "AIRCRAFT.DESCRIPTION": "图波列夫TU204本是苏联对航空业的期望，但随着苏联解体以及经济因素，只交付给了大部分本土航司，唯二两家航空公司为中国国际航空以及高丽航空。",
+      "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_VARIATION": "Tupolev",
+    }
+  }
+}

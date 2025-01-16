@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "es-ES",
+    "Strings": {
+      "T204.LOADING.TIPS.T204_001": "ASTSIM TU204 está completo para trabajos individuales.",
+      "T204.LOADING.TIPS.T204_002": "La única aerolínea existente que opera el avión TU204 es Air Koryo.",
+      "T204.LOADING.TIPS.T204_003": "TU204 fue desarrollado por la Unión Soviética en 1981.",
+      "T204.LOADING.TIPS.T204_004": "¡Ahora solo hay 30 unidades de TU204 en stock! ¡Eso es aproximadamente 70 unidades menos que DC3!",
+      "T204.LOADING.TIPS.T204_005": "El TU204 realizó su primer vuelo el 2 de enero de 1989 en Zhukovsky.",
+      "T204.LOADING.TIPS.T204_006": "TU204 tiene 5 modelos, -100, -120, 214, -300 y SM.",
+      "AIRCRAFT.DESCRIPTION": "Tupolev TU204 era originalmente la expectativa de la Unión Soviética para la industria de la aviación. Sin embargo, con la desintegración de la Unión Soviética y los factores económicos, solo se entregó a la mayoría de las aerolíneas locales. Las únicas dos aerolíneas fueron Air China y Air Koryo.",
+      "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_VARIATION": "Tupolev",
+    }
+  }
+}

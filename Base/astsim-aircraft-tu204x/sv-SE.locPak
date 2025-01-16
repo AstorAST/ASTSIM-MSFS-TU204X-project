@@ -1,0 +1,17 @@
+{
+  "LocalisationPackage": {
+    "Language": "sv-SE",
+    "Strings": {
+      "T204.LOADING.TIPS.T204_001": "ASTSIM TU204 är färdig för individuellt arbete.",
+      "T204.LOADING.TIPS.T204_002": "Det enda befintliga flygbolaget som använder TU204-flygplanet är Air Koryo.",
+      "T204.LOADING.TIPS.T204_003": "TU204 utvecklades av Sovjetunionen 1981.",
+      "T204.LOADING.TIPS.T204_004": "Det finns bara 30 enheter av TU204 i lager nu! Det är ungefär 70 enheter mindre än DC3!",
+      "T204.LOADING.TIPS.T204_005": "TU204 gjorde sin första flygning den 2 januari 1989 i Zjukovsky.",
+      "T204.LOADING.TIPS.T204_006": "TU204 har 5 modeller, -100, -120, 214, -300 och SM.",
+      "AIRCRAFT.DESCRIPTION": "Tupolev TU204 var ursprungligen Sovjetunionens förväntning för flygindustrin. Men med Sovjetunionens upplösning och ekonomiska faktorer levererades den bara till de flesta lokala flygbolag. De enda två flygbolagen var Air China och Air Koryo.",
+      "AIRCRAFT.UI_MANUFACTURER": "AstorAST",
+      "AIRCRAFT.UI_MODEL": "Tupolev TU204-100",
+      "AIRCRAFT.UI_VARIATION": "Tupolev",
+    }
+  }
+}
