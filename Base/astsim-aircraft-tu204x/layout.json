@@ -86,22 +86,22 @@
       "date": 133814581707463554
     },
     {
-      "path": "SimObjects/Airplanes/ASTSIM_TU204_100/aircraft.cfg",
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/aircraft.cfg",
       "size": 2182,
       "date": 133814568230346123
     },
     {
-      "path": "SimObjects/Airplanes/ASTSIM_TU204_100/model/model.cfg",
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/model/model.cfg",
       "size": 586,
       "date": 133813842643484577
     },
     {
-      "path": "SimObjects/Airplanes/ASTSIM_TU204_100/TEXTURE/thumbnail.JPG",
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/TEXTURE/thumbnail.JPG",
       "size": 167102,
       "date": 133813829234486227
     },
     {
-      "path": "SimObjects/Airplanes/ASTSIM_TU204_100/TEXTURE/thumbnail_small.JPG",
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/TEXTURE/thumbnail_small.JPG",
       "size": 167102,
       "date": 133813829234486227
     }
