@@ -1,14 +1,94 @@
 {
   "content": [
     {
+      "path": "de-DE.locPak",
+      "size": 1129,
+      "date": 133814581788744866
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1073,
+      "date": 133814581874044413
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 1201,
+      "date": 133814581604270976
+    },
+    {
+      "path": "es-MX.locPak",
+      "size": 1073,
+      "date": 133814582011026628
+    },
+    {
+      "path": "fi-FI.locPak",
+      "size": 1065,
+      "date": 133814583587736903
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 1251,
+      "date": 133814584798747266
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 1183,
+      "date": 133814589097664443
+    },
+    {
+      "path": "ja-JP.locPak",
+      "size": 1186,
+      "date": 133814586602226981
+    },
+    {
       "path": "MSFSLayoutGenerator.exe",
       "size": 364544,
       "date": 133732699140000000
     },
     {
+      "path": "nb-NO.locPak",
+      "size": 1112,
+      "date": 133814593421646454
+    },
+    {
+      "path": "nl-NL.locPak",
+      "size": 1196,
+      "date": 133814596417573772
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 1194,
+      "date": 133814595050309855
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 1201,
+      "date": 133814598453923585
+    },
+    {
+      "path": "pt-PT.locPak",
+      "size": 1073,
+      "date": 133814582074139965
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 1601,
+      "date": 133814592055917755
+    },
+    {
+      "path": "sv-SE.locPak",
+      "size": 1112,
+      "date": 133814600304292431
+    },
+    {
+      "path": "zh-CN.locPak",
+      "size": 986,
+      "date": 133814581707463554
+    },
+    {
       "path": "SimObjects/Airplanes/ASTSIM_TU204_100/aircraft.cfg",
-      "size": 2008,
-      "date": 133814561643421372
+      "size": 2182,
+      "date": 133814568230346123
     },
     {
       "path": "SimObjects/Airplanes/ASTSIM_TU204_100/model/model.cfg",
