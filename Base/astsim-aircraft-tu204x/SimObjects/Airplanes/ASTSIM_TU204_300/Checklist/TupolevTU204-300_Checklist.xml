@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SimBase.Document Type="Checklist" version="1,0">
+	<Checklist.Checklist>
+		<IncludeCheckpointLibrary FileName="" />
+		<IncludeCheckpointLibrary FileName="SimObjects\\Airplanes\\ASTSIM_TU204_300\\Checklist\\Library.xml" />
+
+	</Checklist.Checklist>
+</SimBase.Document>
