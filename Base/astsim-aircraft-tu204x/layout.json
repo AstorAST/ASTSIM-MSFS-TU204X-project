@@ -3,42 +3,42 @@
     {
       "path": "de-DE.locPak",
       "size": 1129,
-      "date": 133814581788744866
+      "date": 133814650992340454
     },
     {
       "path": "en-US.locPak",
       "size": 1073,
-      "date": 133814581874044413
+      "date": 133814651026938976
     },
     {
       "path": "es-ES.locPak",
       "size": 1201,
-      "date": 133814581604270976
+      "date": 133814650873323421
     },
     {
       "path": "es-MX.locPak",
       "size": 1073,
-      "date": 133814582011026628
+      "date": 133814650914061400
     },
     {
       "path": "fi-FI.locPak",
       "size": 1065,
-      "date": 133814583587736903
+      "date": 133814651227120147
     },
     {
       "path": "fr-FR.locPak",
       "size": 1251,
-      "date": 133814584798747266
+      "date": 133814651150073644
     },
     {
       "path": "it-IT.locPak",
       "size": 1183,
-      "date": 133814589097664443
+      "date": 133814651113556995
     },
     {
       "path": "ja-JP.locPak",
       "size": 1186,
-      "date": 133814586602226981
+      "date": 133814651186364294
     },
     {
       "path": "MSFSLayoutGenerator.exe",
@@ -48,52 +48,82 @@
     {
       "path": "nb-NO.locPak",
       "size": 1112,
-      "date": 133814593421646454
+      "date": 133814650685715440
     },
     {
       "path": "nl-NL.locPak",
       "size": 1196,
-      "date": 133814596417573772
+      "date": 133814650547586069
     },
     {
       "path": "pl-PL.locPak",
       "size": 1194,
-      "date": 133814595050309855
+      "date": 133814650622852890
     },
     {
       "path": "pt-BR.locPak",
       "size": 1201,
-      "date": 133814598453923585
+      "date": 133814650468260038
     },
     {
       "path": "pt-PT.locPak",
       "size": 1073,
-      "date": 133814582074139965
+      "date": 133814650957000711
     },
     {
       "path": "ru-RU.locPak",
       "size": 1601,
-      "date": 133814592055917755
+      "date": 133814650827098131
     },
     {
       "path": "sv-SE.locPak",
       "size": 1112,
-      "date": 133814600304292431
+      "date": 133814650390426411
     },
     {
       "path": "zh-CN.locPak",
       "size": 986,
-      "date": 133814581707463554
+      "date": 133814651077135686
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/ai.cfg",
+      "size": 425,
+      "date": 133816939739864601
     },
     {
       "path": "SimObjects/Airplanes/ASTSIM_TU204_300/aircraft.cfg",
       "size": 2182,
-      "date": 133814568230346123
+      "date": 133814658108420860
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/gameplay.cfg",
+      "size": 704,
+      "date": 133816941087247681
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/Checklist/Library.xml",
+      "size": 191,
+      "date": 133815377317680468
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/Checklist/TupolevTU204-300_Checklist.xml",
+      "size": 314,
+      "date": 133815377023265396
     },
     {
       "path": "SimObjects/Airplanes/ASTSIM_TU204_300/model/model.cfg",
       "size": 586,
       "date": 133813842643484577
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/panel/panel.cfg",
+      "size": 0,
+      "date": 133816938001722529
+    },
+    {
+      "path": "SimObjects/Airplanes/ASTSIM_TU204_300/sound/sound.xml",
+      "size": 169,
+      "date": 133815450176813610
     },
     {
       "path": "SimObjects/Airplanes/ASTSIM_TU204_300/TEXTURE/thumbnail.JPG",
