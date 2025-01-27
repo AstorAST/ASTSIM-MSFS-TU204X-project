@@ -1,1 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PanelFile>
+    <Window name="EFBWindow" size="">
+        <Element type="Text" x="" y="" width="" height="">
+            <Text value="EFB Content Goes Here" font="Arial" size="" />
+        </Element>
+    </Window>
+</PanelFile>
+<Window name="EFBwindow" size="">
+    <Element type="Gauge" x="" y="" width="" height="">
+        <Gauge id="MAP" source="FlightData/Map" />
+    </Element>
+</Window>
+<Button name="Setting " x="" y="" width="" height="">
+    <Text value="Setting" />
+</Button>
+<Text x="" y="" value="{Aircraft/Indications/IndicatedSpeed}" />
+
 
